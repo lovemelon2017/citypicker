@@ -1,6 +1,10 @@
 # citypicker
 利用高德地图api
 
+效果图：
+
+![img](demo.gif)
+
 添加依赖
 Step 1. Add the JitPack repository to your build file
 
